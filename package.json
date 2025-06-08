@@ -1,0 +1,20 @@
+{
+  "name": "skillswap",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Anishshetty124/SkillSwap#readme",
+  "bugs": {
+    "url": "https://github.com/Anishshetty124/SkillSwap/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anishshetty124/SkillSwap.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
